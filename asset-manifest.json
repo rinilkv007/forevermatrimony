@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/forevermatrimony/static/css/main.762f4e16.css",
+    "main.js": "/forevermatrimony/static/js/main.599eb7ff.js",
+    "static/js/453.1880f60c.chunk.js": "/forevermatrimony/static/js/453.1880f60c.chunk.js",
+    "static/media/consult.jpg": "/forevermatrimony/static/media/consult.89a3f81d1729c122d401.jpg",
+    "static/media/Auditorium.jpg": "/forevermatrimony/static/media/Auditorium.27be167916dfb5c972bb.jpg",
+    "static/media/sreepraba.jpg": "/forevermatrimony/static/media/sreepraba.d9be9608be040c0192bc.jpg",
+    "static/media/shivmandir.jpeg": "/forevermatrimony/static/media/shivmandir.a535276aeed6f81f3341.jpeg",
+    "static/media/a1.jpg": "/forevermatrimony/static/media/a1.13eb3b246aa9392db564.jpg",
+    "static/media/a2.jpg": "/forevermatrimony/static/media/a2.95b3c47eb24eb2d6a903.jpg",
+    "static/media/a3.jpg": "/forevermatrimony/static/media/a3.de42b3ad3e6f62610b0e.jpg",
+    "static/media/aryasamaj.jpeg": "/forevermatrimony/static/media/aryasamaj.eb85f4248cfc3b9b7e97.jpeg",
+    "static/media/a5.jpg": "/forevermatrimony/static/media/a5.71622207c955e26a8477.jpg",
+    "static/media/a6.jpeg": "/forevermatrimony/static/media/a6.eeea78500adc0367fa48.jpeg",
+    "static/media/a4.jpg": "/forevermatrimony/static/media/a4.93726876faf4f9829c0d.jpg",
+    "static/media/backgroundHome.jpeg": "/forevermatrimony/static/media/backgroundHome.4d1290bdda5eabd7fc53.jpeg",
+    "static/media/backgroundPage.jpg": "/forevermatrimony/static/media/backgroundPage.6794a848a53fdddf0104.jpg",
+    "static/media/logo.png": "/forevermatrimony/static/media/logo.92f085132f1746fc358a.png",
+    "static/media/slick.svg": "/forevermatrimony/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/forevermatrimony/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/forevermatrimony/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/forevermatrimony/index.html",
+    "static/media/slick.woff": "/forevermatrimony/static/media/slick.295183786cd8a1389865.woff",
+    "main.762f4e16.css.map": "/forevermatrimony/static/css/main.762f4e16.css.map",
+    "main.599eb7ff.js.map": "/forevermatrimony/static/js/main.599eb7ff.js.map",
+    "453.1880f60c.chunk.js.map": "/forevermatrimony/static/js/453.1880f60c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.762f4e16.css",
+    "static/js/main.599eb7ff.js"
+  ]
+}
